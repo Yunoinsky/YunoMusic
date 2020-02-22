@@ -1,0 +1,13 @@
+#+BEGIN_SRC abc :file congress.pdf
+X:1
+T:Test
+M:6/8
+L:1/8
+Q:1/8 = 120
+K:F mixolydian
+"G#"GBAc [B2d2] | [Bd][Ac] [G2B2]
+#+END_SRC
+
+
+#+RESULTS:
+[[file:congress.pdf]]
